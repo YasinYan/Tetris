@@ -1,0 +1,8 @@
+package com.tetris.tetrisr.constants
+
+/**
+ * Created by xyan1 on 5/30/18.
+ */
+enum class FieldConstants(val value: Int){
+    COLUMN_COUNT(10),ROW_COUNT(20);
+}
